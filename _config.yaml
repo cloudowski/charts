@@ -1,9 +1,0 @@
-title: Cloudowski.com Helm Charts
-description: A chart repo for storing charts.
-url: "https://cloudowski.github.io/helm-charts/"
-repo_name: helm-charts
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - .gitignore
