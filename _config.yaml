@@ -1,5 +1,6 @@
-theme: jekyll-theme-tactiletitle: Cloudowski.com Helm Charts
-description: A chart repo for storing charts.
+theme: jekyll-theme-tactile
+title: Cloudowski.com Helm Charts
+description: A chart repo for storing cloudowski.com charts
 url: "https://cloudowski.github.io/helm-charts/"
 repo_name: cloudowski
 
