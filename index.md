@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Getting Started
+## My Helm Charts repository
 
 {{ site.description }}
 

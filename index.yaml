@@ -3,9 +3,27 @@ entries:
   krazy-cow:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2019-12-07T22:50:38.55501+01:00"
+    created: "2019-12-07T23:23:51.826046+01:00"
     description: A Helm chart for Kubernetes
-    digest: 5117cebe0586ba639b3d956a95a1f1573165a5ab35b30cd9f589338a0bf99b42
+    digest: b7b7fd7c9612538d5ac9f9d2b683028ab5a42b0086fe4e4b0d58ec8cb7692dd7
+    home: https://github.com/cloudowski/krazy-cow
+    icon: https://image.flaticon.com/icons/svg/1998/1998610.svg
+    maintainers:
+    - email: tomasz@cloudowski.com
+      name: Tomasz Cholewa
+      url: https://cloudowski.com
+    name: krazy-cow
+    sources:
+    - https://github.com/cloudowski/krazy-cow
+    type: application
+    urls:
+    - https://cloudowski.github.io/helm-charts/krazy-cow-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.3.0
+    created: "2019-12-07T23:23:51.825302+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 3145c71fdace909454b49fe6bddc24411335d3fe6ba571906413a80f63a96862
     home: https://github.com/cloudowski/krazy-cow
     icon: https://image.flaticon.com/icons/svg/1998/1998610.svg
     maintainers:
@@ -19,4 +37,4 @@ entries:
     urls:
     - https://cloudowski.github.io/helm-charts/krazy-cow-0.1.1.tgz
     version: 0.1.1
-generated: "2019-12-07T22:50:38.553485+01:00"
+generated: "2019-12-07T23:23:51.824421+01:00"

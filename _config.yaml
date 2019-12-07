@@ -1,7 +1,7 @@
 theme: jekyll-theme-tactiletitle: Cloudowski.com Helm Charts
 description: A chart repo for storing charts.
 url: "https://cloudowski.github.io/helm-charts/"
-repo_name: helm-charts
+repo_name: cloudowski
 
 exclude:
   - Gemfile
